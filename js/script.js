@@ -1,4 +1,4 @@
-const palavras = ["serra", "linha", "feira", "tigre", "piano", "ferro", "terra", "carta"];
+const palavras = ["serra", "linha", "feira", "tigre", "piano", "pedro", "ferro", "terra", "carta", "livro"];
 
 const palavraSecreta = palavras[Math.floor(Math.random() * palavras.length)];
 const maxTentativas = 6;
